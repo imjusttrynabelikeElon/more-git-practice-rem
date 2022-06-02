@@ -11,7 +11,7 @@ import SwiftUI
 struct more_git_practiceApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            KView()
         }
     }
 }

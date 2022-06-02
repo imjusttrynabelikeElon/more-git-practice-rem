@@ -12,7 +12,7 @@ struct KView: View {
         
         ZStack {
             
-            Color.red.ignoresSafeArea(.all)
+            Color.orange.ignoresSafeArea(.all)
             // hey yall
             Text("This is a Test!")
                 .padding()
