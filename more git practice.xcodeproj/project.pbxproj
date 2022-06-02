@@ -11,6 +11,7 @@
 		C934057F28495F020046AAE7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C934057E28495F020046AAE7 /* ContentView.swift */; };
 		C934058128495F060046AAE7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C934058028495F060046AAE7 /* Assets.xcassets */; };
 		C934058428495F060046AAE7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C934058328495F060046AAE7 /* Preview Assets.xcassets */; };
+		C934058B284960F00046AAE7 /* SecView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C934058A284960F00046AAE7 /* SecView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		C934057E28495F020046AAE7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C934058028495F060046AAE7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C934058328495F060046AAE7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C934058A284960F00046AAE7 /* SecView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				C934057C28495F020046AAE7 /* more_git_practiceApp.swift */,
 				C934057E28495F020046AAE7 /* ContentView.swift */,
+				C934058A284960F00046AAE7 /* SecView.swift */,
 				C934058028495F060046AAE7 /* Assets.xcassets */,
 				C934058228495F060046AAE7 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C934058B284960F00046AAE7 /* SecView.swift in Sources */,
 				C934057F28495F020046AAE7 /* ContentView.swift in Sources */,
 				C934057D28495F020046AAE7 /* more_git_practiceApp.swift in Sources */,
 			);
