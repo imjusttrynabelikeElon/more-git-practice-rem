@@ -10,10 +10,14 @@ import SwiftUI
 struct KView: View {
     var body: some View {
         
-        
-        // hey yall
-        Text("This is a Test!")
-            .padding()
+        ZStack {
+            
+            Color.red.ignoresSafeArea(.all)
+            // hey yall
+            Text("This is a Test!")
+                .padding()
+        }
+      
     }
 }
 
